@@ -1,0 +1,23 @@
+[
+	{
+		"id": 1,
+		"title": "Producto de prueba A",
+		"status": false,
+		"stock": 250,
+		"thumbnail": ""
+	},
+	{
+		"id": 2,
+		"title": "Producto de prueba B",
+		"status": true,
+		"stock": 10,
+		"thumbnail": ""
+	},
+	{
+		"id": 3,
+		"title": "Producto de prueba C",
+		"status": true,
+		"stock": 15,
+		"thumbnail": ""
+	}
+]
