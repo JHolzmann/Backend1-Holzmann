@@ -1,23 +1,81 @@
 [
-	{
-		"id": 1,
-		"title": "Producto de prueba A",
-		"status": false,
-		"stock": 250,
-		"thumbnail": ""
-	},
-	{
-		"id": 2,
-		"title": "Producto de prueba B",
-		"status": true,
-		"stock": 10,
-		"thumbnail": ""
-	},
-	{
-		"id": 3,
-		"title": "Producto de prueba C",
-		"status": true,
-		"stock": 15,
-		"thumbnail": ""
-	}
+    {
+    "id": 1,
+    "category": "Sativa",
+    "bank": "DinaFem",
+    "name": "Chemdog",
+    "description": "Chemdog es un cruce premiado de OG Kush con Sour Diesel , dos progenitores legendarios que han producido una cepa igualmente prolífica, si no más. ¡Los efectos de esta cepa son fuertes! Con un contenido de THC del 21% y un contenido de CBD del 1,5%, tiene el poder de dejar atónitos incluso a los veteranos más experimentados.",
+    "img": {
+    "front": "/img/chemdog.png",
+    "back": ""
+    },
+    "price": 24.500,
+    "stock": 8
+    },
+    {
+    "id": 2,
+    "category": "Sativa",
+    "bank": "Humboldt Seeds",
+    "name": "Jack Herer",
+    "description": "Es una variedad de cannabis híbrida con un alto contenido de THC y un perfil de terpenos distintivo que le da su aroma y sabor característicos. Su perfil de cannabinoides y terpenos le da una amplia gama de efectos psicoactivos y terapéuticos.",
+    "img": {
+    "front": "/img/jack-herer.png",
+    "back": ""
+    },
+    "price": 28.800,
+    "stock": 8
+    },
+    {
+    "id": 3,
+    "category": "Indica",
+    "bank": "Sensi Seeds",
+    "name": "Vainilla Kush",
+    "description": "Su aroma y su sabor recuerdan a lavanda y a vainilla, dulces con notas picantes y matices de naranja y de limón. Su efecto es potente y relajante, es una marihuana que ayuda a aliviar la tensión muscular y a disfrutar de un largo descanso.",
+    "img": {
+    "front": "/img/vanilla-kush.png",
+    "back": ""
+    },
+    "price": 20.500,
+    "stock": 8
+    },
+    {
+    "id": 4,
+    "category": "Sativa",
+    "bank":"Humboldt Seeds",
+    "name": "Wedding Cake",
+    "description": "La Wedding Cake es un famoso híbrido de marihuana descendiente de la potente línea genética Cookies. Esta variedad, también conocida como Triangle Mints #23 (o Pink Cookies en Canadá), es un cruce Girl Scout Cookies y Cherry Pie, dos híbridos míticos con aromas y efectos extraordinarios.",
+    "img": {
+    "front": "/img/wedding-cake.png",
+    "back": ""
+    },
+    "price": 32.700,
+    "stock": 8
+    },
+    {
+    "id": 5,
+    "category": "Sativa",
+    "bank": "DinaFem",
+    "name": "White Widow",
+    "description": "La White Widow florece dando lugar a densos cogollos de color verde claro, con su famoso recubrimiento blanco de tricomas repartido en las hojas a su alrededor. Su apariencia no pasa desapercibida, ya que la White Widow suele destacar en cualquier cultivo.",
+    "img": {
+    "front": "/img/white-widow.png",
+    "back": ""
+    },
+    "price": 29.990,
+    "stock": 8
+    },
+    {
+        "id": 6,
+        "category": "Indica",
+        "bank": "Royal Quuen Seeds",
+        "name": "Northern Lights",
+        "description": "La Northern Lights es conocida principalmente por su efecto eufórico pero tremendamente relajante, así como por su perfil de sabor dulce, especiado y almizclado, y por su gruesa capa de resina. Al ser una índica casi pura, esta planta es bastante fácil de cultivar, ¡y muy productiva!",
+        "img": {
+        "front": "/img/notherlight.png",
+        "back": ""
+        },
+        "price": 19.800,
+        "stock": 8
+        }
+
 ]
